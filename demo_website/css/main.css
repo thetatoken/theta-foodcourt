@@ -1,0 +1,11 @@
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: solid 40px beige;
+}
+
+div {
+    font-size: 32px;
+    text-align: center;
+}
